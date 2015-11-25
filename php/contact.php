@@ -1,9 +1,9 @@
 <?php
 
-$TO = 'uness.informatique@gmail.com';
+$TO = 'antoncabon77@gmail.com';
 
 //message the subject of the email
-$SUBJECT = 'Contact from your FlexyCard';
+$SUBJECT = 'Contact from your vCard';
 $MSG_SEND_ERROR = 'Sorry, we can\'t send this message.';
 
 // Sender Info
